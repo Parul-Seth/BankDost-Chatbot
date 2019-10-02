@@ -1,0 +1,34 @@
+{
+  "intents": [
+    {
+      "intent": "Passbook_intent"
+    },
+    {
+      "intent": "Newplans_intent"
+    },
+    {
+      "intent": "Newaccount_intent",
+      "slots": [
+        {
+          "name": "numberslot",
+          "type": "AMAZON.NUMBER"
+        }
+      ]
+    },
+    {
+      "intent": "DefaultWelcomeIntent"
+    },
+    {
+      "intent": "Loaninfo_intent"
+    },
+    {
+      "intent": "Chequedeposit_intent"
+    },
+    {
+      "intent": "Accountinfo_intent"
+    },
+    {
+      "intent": "Transferaccount_intent"
+    }
+  ]
+}

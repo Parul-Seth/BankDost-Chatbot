@@ -1,0 +1,139 @@
+Passbook_intent	i need to fill my passbook . where should i go
+Passbook_intent	i need to fill my passbook. where should i go?
+Passbook_intent	i want to reissue the passbook . where should i go
+Passbook_intent	i want to reissue the passbook. where should i go?
+Passbook_intent	where the passbook enteries are being made?
+Passbook_intent	where the passbook entery are being make
+Passbook_intent	न sys temperature करने के लिए कहाँ जाना है
+Passbook_intent	पासबुक कहाँ से भरें
+Passbook_intent	पासबुक भरने के लिए कहां जाएं
+Newplans_intent	how can i know about new plan for current account
+Newplans_intent	how can i know about new plan for family account
+Newplans_intent	how can i know about new plan for save account
+Newplans_intent	how can i know about new plans for current account?
+Newplans_intent	how can i know about new plans for family account?
+Newplans_intent	how can i know about new plans for savings account?
+Newplans_intent	how can i know about ppf plan
+Newplans_intent	how can i know about ppf plans?
+Newplans_intent	how can i know about the new plan
+Newplans_intent	how can i know about the new plans?
+Newplans_intent	new plan for current account
+Newplans_intent	new plan for family account
+Newplans_intent	new plan for ppf
+Newplans_intent	new plan for save account
+Newplans_intent	new plans for current account?
+Newplans_intent	new plans for family account?
+Newplans_intent	new plans for ppf?
+Newplans_intent	new plans for savings account?
+Newplans_intent	tell me about new plan
+Newplans_intent	tell me about new plan for current account
+Newplans_intent	tell me about new plan for ppf
+Newplans_intent	tell me about new plan for save account
+Newplans_intent	tell me about new plans ?
+Newplans_intent	tell me about new plans for current account?
+Newplans_intent	tell me about new plans for ppf?
+Newplans_intent	tell me about new plans for savings account?
+Newplans_intent	what are the new plan
+Newplans_intent	what are the new plans ?
+Newplans_intent	करंट अकाउंट की नई योजनाओं के बारे में मुझे कैसे पता चलेगा
+Newplans_intent	करंट अकाउंट की नई योजनाओं के बारे में मुझे कैसे पता चलेगा?
+Newplans_intent	नई योजनाएं क्या हैं
+Newplans_intent	नई योजनाएं क्या हैं?
+Newplans_intent	मैं पारिवारिक खाते की नई योजनाओं के बारे में कैसे जान सकता हूं
+Newplans_intent	मैं पारिवारिक खाते की नई योजनाओं के बारे में कैसे जान सकता हूं?
+Newplans_intent	मैं पीपीएफ योजनाओं के बारे में कैसे जान सकता हूं
+Newplans_intent	मैं पीपीएफ योजनाओं के बारे में कैसे जान सकता हूं?
+Newaccount_intent	from where can i get detail about opening a new account
+Newaccount_intent	from where can i get details about opening a new account?
+Newaccount_intent	i want to open a new save account . where should i go
+Newaccount_intent	i want to open a new saving account. where should i go?
+Newaccount_intent	i wish to open a current account .
+Newaccount_intent	i wish to open a current account.
+Newaccount_intent	where should i go to open a new account
+Newaccount_intent	where should i go to open a new account?
+Newaccount_intent	मुझे नया बैंक खाता खोलने के लिए कहां जाना चाहिए
+Newaccount_intent	मैं {numberslot} चालू खाता खोलना चाहता हूं
+Newaccount_intent	मैं {numberslot} नया खाता खोलना चाहता हूं
+Newaccount_intent	मैं {numberslot} बचत खाता खोलना चाहता हूं
+DefaultWelcomeIntent	a good day
+DefaultWelcomeIntent	greetings
+DefaultWelcomeIntent	hello
+DefaultWelcomeIntent	hello again
+DefaultWelcomeIntent	hello hi
+DefaultWelcomeIntent	hello there
+DefaultWelcomeIntent	hey
+DefaultWelcomeIntent	hey there
+DefaultWelcomeIntent	heya
+DefaultWelcomeIntent	hi
+DefaultWelcomeIntent	hi there
+DefaultWelcomeIntent	howdy
+DefaultWelcomeIntent	i greet you
+DefaultWelcomeIntent	just going to say hi
+DefaultWelcomeIntent	long time no see
+DefaultWelcomeIntent	lovely day isn't it
+DefaultWelcomeIntent	आप का नाम क्या है
+DefaultWelcomeIntent	आप कौन हैं
+DefaultWelcomeIntent	काफ़ी दिनों से बात नहीं हुई
+DefaultWelcomeIntent	क्या हाल है
+DefaultWelcomeIntent	तुम्हारा नाम क्या हे
+DefaultWelcomeIntent	नमस्कार
+DefaultWelcomeIntent	नमस्ते
+DefaultWelcomeIntent	मेरी तरफ़ से नमस्ते
+DefaultWelcomeIntent	सुनो क्या हाल है
+DefaultWelcomeIntent	सुनो, क्या हाल है
+Loaninfo_intent	from where can i get form to apply for loan
+Loaninfo_intent	from where can i get form to apply for loan?
+Loaninfo_intent	from where can i get information about loans?
+Loaninfo_intent	how to apply for loan
+Loaninfo_intent	how to apply for loan?
+Loaninfo_intent	where to apply for loan
+Loaninfo_intent	where to apply for loan?
+Loaninfo_intent	ऋण के लिए आवेदन करने के लिए मुझे कहां से फॉर्म मिल सकता है
+Loaninfo_intent	ऋण के लिए आवेदन करने के लिए मुझे कहां से फॉर्म मिल सकता है?
+Loaninfo_intent	ऋण के लिए आवेदन कैसे करें
+Loaninfo_intent	ऋण के लिए आवेदन कैसे करें?
+Loaninfo_intent	मुझे ऋणों के बारे में जानकारी कहाँ से मिल सकती है
+Loaninfo_intent	मुझे ऋणों के बारे में जानकारी कहाँ से मिल सकती है?
+Chequedeposit_intent	how to deposit cheque
+Chequedeposit_intent	how to deposit cheque?
+Chequedeposit_intent	where should i deposit my cheque
+Chequedeposit_intent	where should i deposit my cheque?
+Chequedeposit_intent	where to deposit cheque
+Chequedeposit_intent	where to deposit cheque?
+Chequedeposit_intent	चेक कहाँ जमा करना है
+Chequedeposit_intent	चेक कहाँ जमा करना है?
+Chequedeposit_intent	चेक कैसे जमा करें
+Chequedeposit_intent	चेक कैसे जमा करें?
+Accountinfo_intent	from where to get my account detail
+Accountinfo_intent	from where to get my account details?
+Accountinfo_intent	how to get my account detail
+Accountinfo_intent	how to get my account details?
+Accountinfo_intent	i want to know about my account detail
+Accountinfo_intent	i want to know about my account details
+Accountinfo_intent	where should i go to know about my account detail
+Accountinfo_intent	where should i go to know about my account details?
+Accountinfo_intent	मुझे अपने खाते के विवरण के बारे में कहां जाना चाहिए
+Accountinfo_intent	मुझे अपने खाते के विवरण के बारे में कहां जाना चाहिए?
+Accountinfo_intent	मेरा खाता विवरण कहाँ से प्राप्त करें
+Accountinfo_intent	मेरा खाता विवरण कहाँ से प्राप्त करें?
+Accountinfo_intent	मेरा खाता विवरण कैसे प्राप्त करें
+Accountinfo_intent	मेरा खाता विवरण कैसे प्राप्त करें?
+Accountinfo_intent	मैं अपने खाते के विवरण के बारे में जानना चाहता हूं
+Transferaccount_intent	from where can i get detail about transfer an account
+Transferaccount_intent	from where can i get details about transferring an account?
+Transferaccount_intent	how can i transfer my account
+Transferaccount_intent	how can i transfer my account?
+Transferaccount_intent	i want to transfer a save account . where should i go
+Transferaccount_intent	i want to transfer a saving account. where should i go?
+Transferaccount_intent	what to do to transfer my account from another branch
+Transferaccount_intent	what to do to transfer my account from another branch?
+Transferaccount_intent	where should i go to transfer my account
+Transferaccount_intent	where should i go to transfer my account from one branch to another
+Transferaccount_intent	where should i go to transfer my account from one branch to another?
+Transferaccount_intent	where should i go to transfer my account?
+Transferaccount_intent	मुझे खाता स्थानांतरित करने के बारे में विवरण कहाँ से प्राप्त हो सकता है
+Transferaccount_intent	मुझे खाता स्थानांतरित करने के बारे में विवरण कहाँ से प्राप्त हो सकता है?
+Transferaccount_intent	मेरे खाते को किसी अन्य शाखा से स्थानांतरित करने के लिए क्या करना चाहिए
+Transferaccount_intent	मेरे खाते को किसी अन्य शाखा से स्थानांतरित करने के लिए क्या करना चाहिए?
+Transferaccount_intent	मैं अपना खाता कैसे स्थानांतरित कर सकता हूं
+Transferaccount_intent	मैं अपना खाता कैसे स्थानांतरित कर सकता हूं?
