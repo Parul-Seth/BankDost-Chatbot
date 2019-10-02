@@ -122,7 +122,7 @@ Accountinfo_intent	मेरा खाता विवरण कैसे प्
 Accountinfo_intent	मेरा खाता विवरण कैसे प्राप्त करें?
 Accountinfo_intent	मैं अपने खाते के विवरण के बारे में जानना चाहता हूं
 Transferaccount_intent	from where can i get detail about transfer an account
-Transferaccount_intent	from where can i get details about transferring an account?
+Transferaccount_intent	from where can i get details about transfer an account?
 Transferaccount_intent	how can i transfer my account
 Transferaccount_intent	how can i transfer my account?
 Transferaccount_intent	i want to transfer a save account . where should i go
