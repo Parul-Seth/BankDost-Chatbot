@@ -1,3 +1,5 @@
+//All the intents are descried
+
 Passbook_intent	i need to fill my passbook . where should i go
 Passbook_intent	i need to fill my passbook. where should i go?
 Passbook_intent	i want to reissue the passbook . where should i go
